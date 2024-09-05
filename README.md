@@ -1,0 +1,1 @@
+This setup provides a robust JWT-based authentication system, securing your Spring Boot application by ensuring that only authenticated users with valid tokens can access protected endpoints. It integrates authentication seamlessly into the application's security framework, allowing for stateless, token-based authentication.
